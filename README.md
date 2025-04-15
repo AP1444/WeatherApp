@@ -1,4 +1,4 @@
-<img width="1470" alt="Screenshot 2025-04-15 at 1 47 29 PM" src="https://github.com/user-attachments/assets/15f62120-7d84-4141-bce5-620a91237d8b" /># 🌦️ Weather Web App
+# 🌦️ Weather Web App
 
 A stylish and responsive weather forecasting web app built using **Java**, **Servlets**, **JSP**, **HTML**, **CSS**, and the **OpenWeatherMap API**. Enter any city name and instantly get the current weather information with a clean and modern UI.
 
