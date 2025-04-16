@@ -38,4 +38,7 @@ A stylish and responsive weather forecasting web app built using **Java**, **Ser
 
 ```bash
 git clone https://github.com/AP1444/WeatherApp
+```
+get api-key from openweather and replace in the code
+```bash
 cd weather-web-app
